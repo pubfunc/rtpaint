@@ -23,7 +23,7 @@
     "@nestjs/core": "^6.0.4",
     "@nestjs/microservices": "^6.0.4",
     "@nestjs/platform-express": "^6.0.4",
-    "@nestjs/platform-socket.io": "^6.5.3",
+    "@nestjs/platform-socket.io": "^9.2.0",
     "@nestjs/websockets": "^6.5.3",
     "canvas": "^2.6.0",
     "reflect-metadata": "0.1.13",
